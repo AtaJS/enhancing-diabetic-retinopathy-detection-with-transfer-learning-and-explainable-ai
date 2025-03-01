@@ -76,7 +76,7 @@ The DeepDRiD (Diabetic Retinopathy Image Dataset) is a comprehensive dataset des
 - **Results**: Insights into model behavior and training instabilities.
 
 ## References
-- What is Diabetic Retinopathy
+- What is Diabetic Retinopathy https://www.aao.org/eye-health/diseases/what-is-diabetic-retinopathy
 - Fundus Image Reference
 - General Information on DR
 - More Information on DR
