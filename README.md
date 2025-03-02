@@ -77,14 +77,14 @@ The DeepDRiD (Diabetic Retinopathy Image Dataset) is a comprehensive dataset des
 
 ## References
 - What is Diabetic Retinopathy https://www.aao.org/eye-health/diseases/what-is-diabetic-retinopathy
-- Fundus Image Reference
-- General Information on DR
-- More Information on DR
-- DeepDRiD Challenge
-- Fine-tuning
-- PyTorch Augmentations
-- Kaggle
-- Cohen’s Kappa Explanation
-- Explainable AI (XAI)
-- GradCAM Article
-- Ensemble Learning and Techniques
+- Fundus Image Reference https://www.themedicaleyecenter.com/diabetic-eye-disease-management-manchester/
+- General Information on DR https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy
+- More Information on DR https://www.mayoclinic.org/diseases-conditions/diabetic-retinopathy/symptoms-causes/syc-20371611
+- DeepDRiD Challenge https://www.sciencedirect.com/science/article/pii/S2666389922001040
+- What is Fine-tuning? https://www.techtarget.com/searchenterpriseai/definition/fine-tuning
+- PyTorch Augmentations https://anushsom.medium.com/image-augmentation-for-creating-datasets-using-pytorch-for-dummies-by-a-dummy-a7c2b08c5bcb
+- Kaggle https://www.kaggle.com/
+- Cohen’s Kappa Explanation https://datatab.net/tutorial/cohens-kappa
+- Explainable AI (XAI) https://builtin.com/artificial-intelligence/explainable-ai
+- GradCAM Article https://datascientest.com/en/what-is-the-grad-cam-method
+- Ensemble Learning and Techniques https://www.geeksforgeeks.org/a-comprehensive-guide-to-ensemble-learning/
